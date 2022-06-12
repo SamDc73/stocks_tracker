@@ -1,11 +1,3 @@
-'''
-used modules :
-    YFinance: to get stocks prices
-    sys(argv): to enter the stock name
-    PrettyTable: to print the data in a table
-    tqdm: get a progrss bar
-'''
-
 import yfinance as yf
 from prettytable import PrettyTable, DOUBLE_BORDER
 from sys import argv
