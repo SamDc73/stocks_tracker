@@ -1,6 +1,6 @@
 # prerequisite
 you need to get couple of packages first by runnign : \
-`pip install --use yfinance prettytable tqdm`
+`pip install --user yfinance prettytable tqdm`
 
 # Used modules
 - [YFinance](https://github.com/ranaroussi/yfinance): to get stocks prices :)
